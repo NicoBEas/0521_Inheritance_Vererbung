@@ -26,8 +26,5 @@ public class App {
         System.out.println(outputStr);
     }
 
-
-
-
+    
 }
-
